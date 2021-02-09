@@ -2,6 +2,7 @@
 
 
 import numpy as np
+from numba import prange
 from numba import *
 
 
